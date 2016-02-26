@@ -1,0 +1,28 @@
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\bin\Debug\Project 2.exe.config
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\bin\Debug\Project 2.exe
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\bin\Debug\Project 2.pdb
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\MainWindow.g.cs
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\App.g.cs
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2_MarkupCompile.cache
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2_MarkupCompile.lref
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\MainWindow.baml
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.g.resources
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.Cache
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.exe
+c:\users\christian\documents\visual studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\App.g.cs
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\MainWindow.baml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\bin\Debug\Final Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\bin\Debug\Final Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\bin\Debug\Final Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Final Project_MarkupCompile.lref
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Final Project.g.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Final Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Project 2\Project 2\obj\Debug\Final Project.pdb

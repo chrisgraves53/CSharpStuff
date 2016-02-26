@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Allgames>
+  <Game>
+    <GameName>
+      <GameExe></GameExe>
+      <ExePath></ExePath>
+      <HomePath></HomePath>
+      <SettingsPath></SettingsPath>
+    </GameName>
+  </Game>
+</Allgames>
