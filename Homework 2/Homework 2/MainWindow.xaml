@@ -1,0 +1,25 @@
+﻿<Window x:Class="Homework_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Height="55" Width="95">
+            <RadioButton x:Name="radioButton" GroupName="set1" Content="RadioButton 1" HorizontalAlignment="Left" Width="91" Height="15" VerticalAlignment="Top" Checked="radioButton_Checked"/>
+            <RadioButton x:Name="radioButton1" GroupName="set1" Content="RadioButton 2" HorizontalAlignment="Left" Width="91" Margin="0,20,0,0" Height="14" VerticalAlignment="Top" Checked="radioButton1_Checked"/>
+            <RadioButton x:Name="radioButton2" GroupName="set1" Content="RadioButton 3" HorizontalAlignment="Left" Width="91" Margin="0,39,0,-9" Height="18" VerticalAlignment="Top" Checked="radioButton2_Checked"/>
+        </Grid>
+
+        <Grid HorizontalAlignment="Right" VerticalAlignment="Top" Width="100">
+            <RadioButton x:Name="radioButton3" GroupName="set2" Content="RadioButton 4" HorizontalAlignment="Right" Width="91" Height="15" VerticalAlignment="Top" Margin="0,0,3,0" Checked="radioButton3_Checked"/>
+            <RadioButton x:Name="radioButton4" GroupName="set2" Content="RadioButton 5" HorizontalAlignment="Right" Width="91" Height="15" Margin="0,20,3,0" VerticalAlignment="Top" Checked="radioButton4_Checked"/>
+            <RadioButton x:Name="radioButton5" GroupName="set2" Content="RadioButton 6" HorizontalAlignment="Right" Width="91" Height="15" Margin="0,40,3,0" VerticalAlignment="Top" Checked="radioButton5_Checked"/>
+        </Grid>
+        <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Bottom" Checked="checkBox_Checked" Unchecked="checkBox_Unchecked" />
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="75" Click="button_Click" IsEnabled="False"/>
+
+    </Grid>
+</Window>

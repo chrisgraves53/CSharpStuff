@@ -1,0 +1,14 @@
+c:\users\chris\documents\visual studio 2015\Projects\Homework 2\Homework 2\bin\Debug\Homework 2.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\bin\Debug\Homework 2.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\bin\Debug\Homework 2.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\App.g.cs
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2_MarkupCompile.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2_MarkupCompile.lref
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\MainWindow.baml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2.g.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework_2.Properties.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Homework 2\Homework 2\obj\Debug\Homework 2.pdb
